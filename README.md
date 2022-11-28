@@ -5,7 +5,7 @@ They need to be parked in a straight line parallel to the x-axis with no spaces 
 The fuel consumed to move a car is abs(x[finish]-x[start]) + abs(y[finish]-y[start]).
 Determine the minimum fuel cost to arrange the cars side-by-side in a row parallel to the x-axis.
 
-Exemple:
+Exemple:\n
 x = [1,4]
 y = [1,4]
 One optimal solution is :
