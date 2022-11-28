@@ -8,6 +8,7 @@ Determine the minimum fuel cost to arrange the cars side-by-side in a row parall
 Exemple:
 
 x = [1,4]
+
 y = [1,4]
 
 One optimal solution is :
