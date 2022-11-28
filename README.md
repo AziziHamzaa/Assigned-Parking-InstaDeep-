@@ -11,7 +11,7 @@ x = [1,4]
 
 y = [1,4]
 
-![Example](example.jpg)
+![Example](example2.jpg)
 
 One optimal solution is :
 * The first car initially at position (1,1) moves to (3,1) for cost of abs(3-1) + abs(1-1) = 2
