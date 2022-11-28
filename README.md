@@ -9,6 +9,7 @@ Exemple:
 
 x = [1,4]
 y = [1,4]
+
 One optimal solution is :
 * The first car initially at position (1,1) moves to (3,1) for cost of abs(3-1) + abs(1-1) = 2
 * The second car initially at position (4,4) moves to (4,1) for cost of abs(4-4) + abs(4-1) = 3
